@@ -31,7 +31,7 @@ A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversos proye
    - Tecnologías Utilizadas: React.js - JavaScript - CSS - Node.js - Express.js - API Rest - Redux - PostgreSql
 
 3. Rick and Mory - React App
-   - Descripción: Aplicación creada en React para mostrar los personajes de la serie anima Rick and Morty. El backend fue desarrollado en Node.js utilizando Express el cual interactuaba con una API REST que proporcionaba la información a mostrar en pantalla. La aplicación cuenta con una lógica de autenticación y también con una base de datos para guardar los personajes favoritos de cada usuario. Las credenciales de prueba son las siguientes: Email: prueba@soyhenry.com - Password: soyhenry1234
+   - Descripción: Aplicación creada en React para mostrar los personajes de la serie anima Rick and Morty. El backend fue desarrollado en Node.js utilizando Express el cual interactuaba con una API REST que proporcionaba la información a mostrar en pantalla. La aplicación cuenta con una lógica de autenticación y también con una base de datos para guardar los personajes favoritos de cada usuario.
    - Tecnologías Utilizadas: React.js · JavaScript · Redux.js · API · Node.js · css
 
 ## Contacto
