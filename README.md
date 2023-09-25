@@ -38,5 +38,7 @@ A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversos proye
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o estás interesado en colaborar en proyectos emocionantes, no dudes en [contactarme](mailto:tu@email.com) o encontrarme en https://www.linkedin.com/in/christian-araneda/.
 
+O a mi correo personal: Ignacio.aranedaocares@gmail.com
+
 ¡Espero con interés la oportunidad de trabajar juntos en futuros proyectos!
 
